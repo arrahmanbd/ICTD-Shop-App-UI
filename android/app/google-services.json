@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161724572770",
+    "project_id": "himushop-77e43",
+    "storage_bucket": "himushop-77e43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161724572770:android:33b81698676ead608e1d3b",
+        "android_client_info": {
+          "package_name": "com.shop.himu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161724572770-qmtm80v1ne1038ehtl1va1k7cij2tu70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPYJvck0tZSY8ACRxOk6iO89j2NvRktbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161724572770-qmtm80v1ne1038ehtl1va1k7cij2tu70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
